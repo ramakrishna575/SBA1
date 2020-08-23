@@ -1,0 +1,6 @@
+
+testListProduct=true
+testInsertNewProduct=false
+testAdminLogin=true
+testEditProductForm=true
+testNewProductForm=false
